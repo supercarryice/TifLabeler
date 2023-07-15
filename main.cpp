@@ -1,4 +1,4 @@
-#include "mainwindow.h"
+﻿#include "mainwindow.h"
 #include <qgsapplication.h>
 #include <gdal_priv.h>
 
